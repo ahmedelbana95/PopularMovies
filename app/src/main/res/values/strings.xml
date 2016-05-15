@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title">Movie Title</string>
+    <string name="release_date">2015</string>
+    <string name="vote_average">6.91/10</string>
+    <string name="favorite_button">MARK AS FAVORITE</string>
+    <string name="plot_synopsis">Any Description</string>
+    <string name="no_internet_title">Connectivity problem</string>
+    <string name="no_internet_message">No internet connection available please turn on your network services</string>
+    <string name="no_internet_negative_btn">EXIT</string>
+    <string name="no_internet_positive_btn">OKAY</string>
+    <string name="duration">120min</string>
+    <string name="menu_sort">Sorting</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_vote">RatingActivity</string>
+    <string name="menu_sort_popularity">Popularity</string>
+    <string name="menu_sort_rating">Rating</string>
+    <string name="menu_sort_favorite">Favorite</string>
+    <string name="trailers">Trailers :-</string>
+    <string name="reviews">Reviews :-</string>
+    <string name="dialog_progress_title">wait ...</string>
+    <string name="dialog_progress_message"> loading...</string>
+    <string name="PlayerActivity">PlayerActivity :-</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
